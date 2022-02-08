@@ -19,3 +19,8 @@ buttonHamburger.addEventListener('click', function () {
 closeMenu.addEventListener('click', function () {
   burger.style.display = 'none';
 });
+
+// buttonHamburger.addEventListener('click', function () {
+//   burger.toggle('active');
+// });
+//  Non capisco come usare il toggle.
